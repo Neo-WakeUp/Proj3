@@ -3,17 +3,17 @@
 /*                                                      */
 /*                        Version : 1                   */
 /*                                                      */
-/*                     Vladimír Lovíšek                 */
+/*                     VladimÃ­r LovÃ­Å¡ek                 */
 /*                       December 2016                  */
 /* **************************************************** */
 /**
- * Kostra programu pro 3. projekt IZP 2015/16
- *
- * Jednoducha shlukova analyza
- * Complete linkage
- * http://is.muni.cz/th/172767/fi_b/5739129/web/web/clsrov.html
- */
- #include <ctype.h>
+* Kostra programu pro 3. projekt IZP 2015/16
+*
+* Jednoducha shlukova analyza
+* Complete linkage
+* http://is.muni.cz/th/172767/fi_b/5739129/web/web/clsrov.html
+*/
+#include <ctype.h>
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
